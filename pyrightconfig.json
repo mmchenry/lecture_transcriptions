@@ -1,0 +1,30 @@
+{
+    "include": [
+        "."
+    ],
+    "exclude": [
+        "**/node_modules",
+        "**/__pycache__",
+        "venv"
+    ],
+    "pythonVersion": "3.11",
+    "pythonPlatform": "Darwin",
+    "venvPath": ".",
+    "venv": "venv",
+    "typeCheckingMode": "off",
+    "useLibraryCodeForTypes": false,
+    "autoImportCompletions": false,
+    "reportMissingImports": "none",
+    "reportMissingTypeStubs": "none",
+    "reportUnusedImport": "none",
+    "reportUnusedVariable": "none",
+    "reportUnusedClass": "none",
+    "reportUnusedFunction": "none",
+    "reportDuplicateImport": "none",
+    "reportOptionalSubscript": "none",
+    "reportOptionalMemberAccess": "none",
+    "reportOptionalCall": "none",
+    "reportOptionalIterable": "none",
+    "reportOptionalContextManager": "none",
+    "reportOptionalOperand": "none"
+} 
